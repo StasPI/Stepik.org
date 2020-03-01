@@ -19,7 +19,6 @@ with open(file_path, 'r', encoding='utf-') as inf:
 
 dct = xmltodict.parse(text)
 
-
 def screan(core_element, value):
     count = 0
     for node in dct['osm'][core_element]:
@@ -33,8 +32,7 @@ def screan(core_element, value):
                         count += 1
     return count
 
+total = screan('node', 'fuel')
+total += screan('way', 'fuel')
 
-a = screan('node', 'fuel')
-b = screan('way', 'fuel')
-
-print(a+b)
+print(total)

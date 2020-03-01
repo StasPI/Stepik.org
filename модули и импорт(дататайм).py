@@ -40,6 +40,7 @@ print(finish_date.year, finish_date.month, finish_date.day)
 # start_datetime = datetime.date(start_date[0], start_date[1], start_date[2])
 # up_datetime = datetime.timedelta(days=up_date)
 # finish_date = str(start_datetime + up_datetime)
-# finish_date = finish_date.split('-')
+# finish_date = finish_date.split('-')4
+
 # for element in finish_date:
 #     print(int(element), end=' ')
