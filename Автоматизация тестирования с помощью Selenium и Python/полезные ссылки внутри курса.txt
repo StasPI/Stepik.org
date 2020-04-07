@@ -7,3 +7,5 @@ https://stepik.org/lesson/102555/step/4?unit=196193 (селекты 2)
 https://stepik.org/lesson/102555/step/10?unit=196193 (XPath)
 
 https://stepik.org/lesson/138920/step/6?unit=196194 (find_elements)
+
+https://stepik.org/lesson/165493/step/2?unit=140087 (checkbox and radio button)
