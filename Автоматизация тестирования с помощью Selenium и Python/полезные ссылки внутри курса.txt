@@ -22,3 +22,11 @@ https://stepik.org/lesson/184253/step/2?unit=158843 (alert)
 
 https://stepik.org/lesson/184253/step/5?unit=158843 (новая вкладка браузера)
 
+https://stepik.org/lesson/181384/step/5?unit=156009 (Implicit Waits(неявные ожидания))
+
+https://stepik.org/lesson/181384/step/7?unit=156009 (Explicit Waits(явные ожидания))
+
+https://stepik.org/lesson/171979/step/1?unit=146657 (полезные ссылки к 1 и 2 модулю)
+
+https://stepik.org/lesson/187065/step/6?unit=161976 (команды git)
+
