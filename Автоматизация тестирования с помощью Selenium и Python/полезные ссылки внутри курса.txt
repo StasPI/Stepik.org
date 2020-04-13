@@ -30,3 +30,18 @@ https://stepik.org/lesson/171979/step/1?unit=146657 (полезные ссылк
 
 https://stepik.org/lesson/187065/step/6?unit=161976 (команды git)
 
+https://stepik.org/lesson/187065/step/12?unit=161976 (ссылки по git)
+
+https://stepik.org/lesson/36285/step/7?unit=162401 (форматирование строк)
+
+https://stepik.org/lesson/36285/step/12?unit=162401 (unittest)
+
+https://stepik.org/lesson/193188/step/2?unit=167629 (PyTest)
+
+https://stepik.org/lesson/193188/step/4?unit=167629 (Фиксируем пакеты в requirements.txt )
+
+https://stepik.org/lesson/193188/step/5?unit=167629 (PyTest: правила запуска тестов)
+
+https://stepik.org/lesson/193188/step/7?unit=167629 (PyTest - отчёты)
+
+https://gist.github.com/amatellanes/12136508b816469678c2 (PyTest - команды для отчётов)
