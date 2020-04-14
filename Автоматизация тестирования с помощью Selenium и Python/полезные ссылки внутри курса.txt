@@ -45,3 +45,18 @@ https://stepik.org/lesson/193188/step/5?unit=167629 (PyTest: правила за
 https://stepik.org/lesson/193188/step/7?unit=167629 (PyTest - отчёты)
 
 https://gist.github.com/amatellanes/12136508b816469678c2 (PyTest - команды для отчётов)
+
+https://stepik.org/lesson/237257/step/2?unit=209645 (fixtures)
+
+https://stepik.org/lesson/237257/step/3?unit=209645 (фикстуры возвращающие значения)
+
+https://stepik.org/lesson/237257/step/4?unit=209645 (финализатор - закрываем браузер)
+
+https://stepik.org/lesson/237257/step/5?unit=209645 (области видимости scope)
+
+https://stepik.org/lesson/236918/step/2?unit=209305 (маркировка тестов)
+
+https://stepik.org/lesson/236918/step/4?unit=209305 (маркер пропуск теста)
+
+https://stepik.org/lesson/236918/step/5?unit=209305 (XFail: помечать тест как ожидаемо падающий)
+
