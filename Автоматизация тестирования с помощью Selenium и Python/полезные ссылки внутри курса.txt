@@ -60,3 +60,7 @@ https://stepik.org/lesson/236918/step/4?unit=209305 (маркер пропуск
 
 https://stepik.org/lesson/236918/step/5?unit=209305 (XFail: помечать тест как ожидаемо падающий)
 
+https://stepik.org/lesson/237240/step/2?unit=209628 (параметризация тестов)
+
+https://stepik.org/lesson/237240/step/4?unit=209628 (Conftest.py - конфигурация тестов)
+
