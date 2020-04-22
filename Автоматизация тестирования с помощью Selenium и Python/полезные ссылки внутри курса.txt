@@ -64,6 +64,12 @@ https://stepik.org/lesson/237240/step/2?unit=209628 (параметризаци�
 
 https://stepik.org/lesson/237240/step/4?unit=209628 (Conftest.py - конфигурация тестов)
 
+https://stepik.org/lesson/237240/step/6?unit=209628 (Conftest.py и передача параметров в командной строке)
+
+https://stepik.org/lesson/237240/step/7?unit=209628 (Плагины и перезапуск тестов)
+
+https://stepik.org/lesson/237240/step/8?unit=209628 (Запуск автотестов для разных языков интерфейса)
+
 https://stepik.org/lesson/237240/step/5?unit=209628 (Установка Firefox и Selenium-драйвера geckodriver)
 
 https://stepik.org/lesson/237240/step/6?unit=209628 (Conftest.py и передача параметров в командной строке)
@@ -71,4 +77,6 @@ https://stepik.org/lesson/237240/step/6?unit=209628 (Conftest.py и переда
 https://stepik.org/lesson/237240/step/7?unit=209628 (Плагины и перезапуск тестов)
 
 https://stepik.org/lesson/237240/step/8?unit=209628 (Запуск автотестов для разных языков интерфейса)
+
+https://stepik.org/lesson/237258/step/1?unit=209646 (Полезные ссылки)
 
